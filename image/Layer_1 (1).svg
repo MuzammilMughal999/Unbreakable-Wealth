@@ -1,0 +1,12 @@
+<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Layer_1" clip-path="url(#clip0_49_16)">
+<path id="Vector" d="M1.2972 17C1.2972 25.6724 8.32754 32.7027 16.9999 32.7027C25.6723 32.7027 32.7026 25.6724 32.7026 17C32.7026 8.32765 25.6723 1.2973 16.9999 1.2973C8.32754 1.2973 1.2972 8.32765 1.2972 17Z" stroke="#EEEEEF" stroke-miterlimit="10"/>
+<path id="Vector_2" d="M17 6.65833L17 24.0021" stroke="#EEEEEF" stroke-miterlimit="10"/>
+<path id="Vector_3" d="M17 17.3197L20.8577 17.3197L18.928 20.6609L17 24.0021L15.0704 20.6609L13.1424 17.3197L17 17.3197Z" fill="#EEEEEF" stroke="#EEEEEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_49_16">
+<rect width="34" height="34" fill="white" transform="translate(34) rotate(90)"/>
+</clipPath>
+</defs>
+</svg>
